@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/stoye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://site.stoye.me
+    * I am stoye (https://keybase.io/stoye) on keybase.
+      * I have a public key with fingerprint 2561 4EF0 E757 AB58 1EDA  BCBD 0C66 9BCC BC3A 245C
+
+      To do so, I am signing this object:
+
+      {
+          "body": {
+                  "client": {
+                              "name": "keybase.io node.js client",
+                                          "version": "0.8.20"
+                                                  },
+                                                          "key": {
+                                                                      "eldest_kid": "010133cbab83bd1f2452cf07d9fbeb09ddbd8d29605a9eba8db8651b5f9ee8296e970a",
+                                                                                  "fingerprint": "25614ef0e757ab581edabcbd0c669bccbc3a245c",
+                                                                                              "host": "keybase.io",
+                                                                                                          "key_id": "0c669bccbc3a245c",
+                                                                                                                      "kid": "010133cbab83bd1f2452cf07d9fbeb09ddbd8d29605a9eba8db8651b5f9ee8296e970a",
+                                                                                                                                  "uid": "a5644f39b9bf1d52294faf7472b99219",
+                                                                                                                                              "username": "stoye"
+                                                                                                                                                      },
+                                                                                                                                                              "service": {
+                                                                                                                                                                          "hostname": "site.stoye.me",
+                                                                                                                                                                                      "protocol": "https:"
+                                                                                                                                                                                              },
+                                                                                                                                                                                                      "type": "web_service_binding",
+                                                                                                                                                                                                              "version": 1
+                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                      "ctime": 1443979641,
+                                                                                                                                                                                                                          "expire_in": 157680000,
+                                                                                                                                                                                                                              "prev": "abf69d9ad8ad760b103001f8ea2a32c46dd356b513fba22074b0b101f7e65c23",
+                                                                                                                                                                                                                                  "seqno": 4,
+                                                                                                                                                                                                                                      "tag": "signature"
+                                                                                                                                                                                                                                      }
+
+                                                                                                                                                                                                                                      which yields the signature:
+
+                                                                                                                                                                                                                                      -----BEGIN PGP MESSAGE-----
+                                                                                                                                                                                                                                      Version: GnuPG v2
+
+                                                                                                                                                                                                                                      owGtkl1IVEEUx3fVzM0sC6SSAruaJNg6c79nTaUPKET6gozMWmfuzNWrdu+297q1
+                                                                                                                                                                                                                                      ZRARYaQkESVZQfgSFQYqgrX1VkFtFITQgyR9F/TWB4ER3TF9iF6bp5k5v3PO/39m
+                                                                                                                                                                                                                                      evMyAznB+WZ/OhUpaQw+/kQC9Ytw8ohAHJoUIkcEo91itsd3Nt7PhIjQxpIEuyxs
+                                                                                                                                                                                                                                      OUW2Q1m41S2aYcqFBIu7lmP7FAjrYREIR8s5z7NZO2WuF22zKI9CACXJIJjoEqHQ
+                                                                                                                                                                                                                                      FGVFNEygUWQSRgCilFCdikgFCkaMYJ0SXVUgUUzEmO7fM6QB7Dc0LbuZxWNxi0sU
+                                                                                                                                                                                                                                      REWFMjMB0xQNE0WHjGJiEAoMVUXEMIghYb+V4Se2OK73lxlhWmn0j7x/+f+su2O6
+                                                                                                                                                                                                                                      HFZUWTYlRBAxIVVEEckmNjVZEwlCIkQcdFl8ZvCu5yQZn6h/lbAMxqfKbcyGLY+F
+                                                                                                                                                                                                                                      p5mwfy4XYnHHcwyn3Q+1eF7MjfBULxnj7EFGojNVosSyqT/F2dc7z58P+qjhWbwu
+                                                                                                                                                                                                                                      lGUJaUiVYbnADsWsOItanFA0VQf+4o1YgpshpooowlTHVFMBgUACAJo6wyKWRENW
+                                                                                                                                                                                                                                      KZUUlShQMgkWRaDJhEPQ1JiqGKIkcGMHbEeIyL5O3DxtqdnGXkfcd30quDwrEMwJ
+                                                                                                                                                                                                                                      ZM/J4P8zMC+UP/tpD+GcwJWxquaGwqb1Y/m1rTR21VS2j6QrVk9dNJ4WPzq9qvNr
+                                                                                                                                                                                                                                      bcuDxqnx+jvPahoGrs39Ml6cO1zdvb3gzM/Bw9V7vfupwbJ1pZduPtwlbyoN5b1t
+                                                                                                                                                                                                                                      722AJ/qLapeujOSmczcufTeaqk+tCE8smbrTOkKtgZLOFx8Sk8QKTvZG+7uW53cH
+                                                                                                                                                                                                                                      s9fU3ToDVuzJzlizf/PAshsvfzT9/LXjQvXw9fH0opqNdfWVwra3b8p6WuzQt9LH
+                                                                                                                                                                                                                                      RZWrzs65rbzuOHr5u4vH5YWlbUOhLuf9hldZNemyoV9VE4vXXtoXOnZ831DP3b6K
+                                                                                                                                                                                                                                      gkzyEWzpXjBc+F58nn0PunNPFu4Wa7fubPyceHKOpC6O9v0G
+                                                                                                                                                                                                                                      =FGAb
+                                                                                                                                                                                                                                      -----END PGP MESSAGE-----
+
+                                                                                                                                                                                                                                      And finally, I am proving ownership of this host by posting or
+                                                                                                                                                                                                                                      appending to this document.
+
+                                                                                                                                                                                                                                      View my publicly-auditable identity here: https://keybase.io/stoye
+
+                                                                                                                                                                                                                                      ==================================================================
